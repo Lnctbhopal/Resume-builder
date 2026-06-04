@@ -40,7 +40,7 @@ function Navbar({ downloadPDF }) {
             </h1>
 
             <p className="text-[10px] sm:text-[11px] font-semibold uppercase tracking-[0.35em] text-slate-400 mt-1">
-              Professional Resume Studio
+              Professional Resume Checker & Builder
             </p>
 
           </div>
